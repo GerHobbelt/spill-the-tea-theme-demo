@@ -1,3 +1,7 @@
+---
+nav_order: 0
+---
+
 # Spill the Tea: Jekyll theme demo
 
 Een voorbeeld & test site voor de Spill the Tea theme, afgeleid van Read The Docs.
