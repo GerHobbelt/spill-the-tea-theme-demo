@@ -7,5 +7,5 @@
 
 ## Plaatjes
 
-![nogmaals: de Yak (door Polina Kuzovkova)](polina-kuzovkova-unsplash.jpeg)
+![nogmaals: de Yak (door Polina Kuzovkova)](polina-kuzovkova-unsplash.jpg)
 
