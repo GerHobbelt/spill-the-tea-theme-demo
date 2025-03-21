@@ -2,7 +2,7 @@
 nav_order: 20
 ---
 
-# README / index pagina
+# README / index pagina voor folder A
 
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 
