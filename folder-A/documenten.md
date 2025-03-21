@@ -1,3 +1,7 @@
+---
+nav_order: 22
+---
+
 # Voorbeeld pagina met links naar documenten & afbeeldingen
 
 ## PDFjes
