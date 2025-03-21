@@ -1,5 +1,5 @@
 ---
-nav_order: 0
+nav_order: 1
 ---
 
 # Spill the Tea: Jekyll theme demo
