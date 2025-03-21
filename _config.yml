@@ -1,0 +1,32 @@
+remote_theme: VeraB62/spill-the-tea-theme
+
+# https://github.com/mmistakes/minimal-mistakes/issues/1875
+# https://github.com/jekyll/github-metadata
+# https://github.com/jekyll/jekyll-seo-tag
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+
+
+social:
+  name: Vera B.
+  links:
+    - https://twitter.com/VeraB62
+    - https://www.facebook.com/VeraB62
+    - https://github.com/VeraB62
+    - https://keybase.io/VeraB62
+    - https://bsky.app/profile/VeraB62
+  
+title: testing the spill-the-tea theme
+description: test/voorbeeld website die de Spill the Tea theme (Jekyll) gebruikt.
+
+# logo: "/assets/images/just-the-docs.png"
+
+gh_edit_repository: https://github.com/VeraB62/spill-the-tea-theme-demo 
+
