@@ -2,7 +2,9 @@
 
 .side-bar-bg {
   // background-color: #e7ebff;
-  background-image: url(/folder-A/polina-kuzovkova-unsplash.jpg);
+
+  // CSS lands in site/assets/css/, so we must walk 2 dirs up, then down the regular path...
+  background-image: url(../../folder-A/polina-kuzovkova-unsplash.jpg);
 
   // https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images
   background-size: cover;
