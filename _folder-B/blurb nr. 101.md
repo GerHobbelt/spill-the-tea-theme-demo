@@ -1,7 +1,6 @@
 ---
 nav_order: 101
 category: folder-B1
-parent: "Spill the Tea: Jekyll theme demo"
 ---
 
 # Blah blah blah #101
