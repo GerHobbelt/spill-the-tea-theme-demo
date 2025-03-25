@@ -13,21 +13,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
 
-collections:
-  folder-A:
-    output: true
-  folder-B:
-    output: true
-
-just_the_docs:
-  collections:
-    folder-A:
-      name: folder A
-      nav_fold: false
-    folder-B:
-      name: folder B
-      nav_fold: false
-
 defaults:
   -
     scope:
