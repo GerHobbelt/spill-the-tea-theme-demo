@@ -17,6 +17,11 @@ collections:
   archief:
     output: true
 
+just_the_docs:
+  collections:
+    archief:
+      name: Archief
+      nav_fold: false
 
 social:
   name: Vera B.
