@@ -16,10 +16,8 @@ plugins:
 collections:
   folder-A:
     output: true
-    layout: default
   folder-B:
     output: true
-    layout: default
 
 just_the_docs:
   collections:
@@ -36,7 +34,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      
+
 social:
   name: Vera B.
   links:
