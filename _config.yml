@@ -16,8 +16,10 @@ plugins:
 collections:
   folder-A:
     output: true
+    layout: default
   folder-B:
     output: true
+    layout: default
 
 just_the_docs:
   collections:
