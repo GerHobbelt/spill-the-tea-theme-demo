@@ -30,6 +30,13 @@ just_the_docs:
       name: folder B
       nav_fold: false
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      
 social:
   name: Vera B.
   links:
