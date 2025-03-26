@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.2"
+gem "jekyll"
 gem "sass"
 
 group :jekyll_plugins do
