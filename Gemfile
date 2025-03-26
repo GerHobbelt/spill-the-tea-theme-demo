@@ -1,6 +1,6 @@
 # Gemfile
 
-#source 'https://rubygems.org'
+source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.2"
 gem "sass"
@@ -17,4 +17,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
-gem 'spill-the-tea-theme', git: 'https://github.com/GerHobbelt/spill-the-tea-theme'
+# gem 'spill-the-tea-theme', git: 'https://github.com/GerHobbelt/spill-the-tea-theme'
