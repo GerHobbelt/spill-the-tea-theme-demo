@@ -37,5 +37,11 @@ description: test/voorbeeld website die de Spill the Tea theme (Jekyll) gebruikt
 
 gh_edit_repository: https://github.com/VeraB62/spill-the-tea-theme-demo 
 
-# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
-github: [metadata]
+## https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+#github: [metadata]
+
+repository: GerHobbelt/spill-the-tea-theme-demo
+author: Ger Hobbelt
+
+# url: https://github.com/VeraB62/spill-the-tea-theme-demo 
+# baseurl: ""
