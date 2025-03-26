@@ -1,4 +1,4 @@
-remote_theme: VeraB62/spill-the-tea-theme
+remote_theme: GerHobbelt/spill-the-tea-theme
 
 # https://github.com/mmistakes/minimal-mistakes/issues/1875
 # https://github.com/jekyll/github-metadata
@@ -12,6 +12,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-github-metadata
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 defaults:
   -
