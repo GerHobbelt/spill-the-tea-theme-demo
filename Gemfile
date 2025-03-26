@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
+  gem "jekyll-remote-theme"
 end
 
 # gem 'spill-the-tea-theme', git: 'https://github.com/GerHobbelt/spill-the-tea-theme'
